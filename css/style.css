@@ -386,4 +386,6 @@ time {
   justify-content: center;
   align-items: center;
   gap: 5px;
+  left: 0;
+  
 }
